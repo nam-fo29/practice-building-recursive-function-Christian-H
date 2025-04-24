@@ -8,3 +8,6 @@ function reverseString(string) {
 }
 
 console.log(reverseString("hello"));
+console.log(reverseString("LaunchCode"));
+console.log(reverseString("a"));
+console.log(reverseString(""));
